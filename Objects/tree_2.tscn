@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://bc7ogvhja5u5y"]
+
+[ext_resource type="Texture2D" uid="uid://c8damdcwaybam" path="res://Art/Sprout Lands - Sprites - Basic pack/Objects/tree2.png" id="1_qfj5t"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_j14wl"]
+size = Vector2(22, 14)
+
+[node name="Tree15" type="Sprite2D"]
+position = Vector2(52, 250)
+texture = ExtResource("1_qfj5t")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(0, 8)
+shape = SubResource("RectangleShape2D_j14wl")

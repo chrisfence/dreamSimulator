@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://dl8lqlaxby1o3"]
+
+[ext_resource type="Texture2D" uid="uid://c2dgmgya0xmjx" path="res://Art/Sprout Lands - Sprites - Basic pack/Objects/bush3.png" id="1_0yqql"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_qrgym"]
+size = Vector2(14, 14)
+
+[node name="Bush4" type="Sprite2D"]
+position = Vector2(245.569, 303.949)
+texture = ExtResource("1_0yqql")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(0.431, 0.0509949)
+shape = SubResource("RectangleShape2D_qrgym")
