@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://clx5pc2gbvrgi"]
+
+[ext_resource type="Texture2D" uid="uid://p6saydf4ta6h" path="res://Art/Sprout Lands - Sprites - Basic pack/Objects/flower1.png" id="1_xtgpj"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_t0qx1"]
+size = Vector2(12, 23.659)
+
+[node name="Flower1" type="Sprite2D"]
+position = Vector2(584.83, 554.682)
+texture = ExtResource("1_xtgpj")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(0.169983, 0.147461)
+shape = SubResource("RectangleShape2D_t0qx1")

@@ -1,0 +1,23 @@
+[gd_scene load_steps=4 format=3 uid="uid://buooww5hedsx4"]
+
+[ext_resource type="Texture2D" uid="uid://dpfuli7golheu" path="res://Art/Sprout Lands - Sprites - Basic pack/Objects/House2.png" id="1_o3srk"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ex7fc"]
+size = Vector2(25, 37)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_jusgc"]
+size = Vector2(49, 47.839)
+
+[node name="House2" type="Sprite2D"]
+position = Vector2(-541.436, 488.161)
+texture = ExtResource("1_o3srk")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(24.936, 8.33899)
+shape = SubResource("RectangleShape2D_ex7fc")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(-12.064, 13.9195)
+shape = SubResource("RectangleShape2D_jusgc")
