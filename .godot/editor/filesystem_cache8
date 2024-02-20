@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1708367617
+::res://::1708383326
 Character Spritesheet_updated.png::CompressedTexture2D::8534283396866108318::1708316989::1708317298::1::::<><>::
 icon.svg::CompressedTexture2D::5260630502954182299::1707422345::1707422363::1::::<><>::
 ::res://Art/::1708316989
@@ -13,7 +13,7 @@ Egg_And_Nest.png::CompressedTexture2D::7212118965233655396::1688788916::17074226
 Free Chicken Sprites.png::CompressedTexture2D::6568385225038322861::1686897918::1707422671::1::::<><>::
 Free Cow Sprites.png::CompressedTexture2D::6832362211525200475::1642842810::1707422671::1::::<><>::
 Tools.png::CompressedTexture2D::6699318014257590135::1647018162::1707422671::1::::<><>::
-::res://Art/Sprout Lands - Sprites - Basic pack/Objects/::1708381418
+::res://Art/Sprout Lands - Sprites - Basic pack/Objects/::1708384867
 Basic_Furniture.png::CompressedTexture2D::2368680878362119725::1640172806::1707422671::1::::<><>::
 Basic_Grass_Biom_things.png::CompressedTexture2D::3006560324798745475::1641385164::1707422671::1::::<><>::
 Basic_Plants.png::CompressedTexture2D::8113468578135275671::1640170444::1707422671::1::::<><>::
@@ -22,21 +22,22 @@ bush1.png::CompressedTexture2D::990667936851506650::1708368574::1708368669::1:::
 bush2.png::CompressedTexture2D::3678763363817366045::1708380311::1708380335::1::::<><>::
 bush3.png::CompressedTexture2D::6674519362608446785::1708380331::1708380335::1::::<><>::
 Chest.png::CompressedTexture2D::1972275542584515754::1643115086::1707422671::1::::<><>::
+circle.png::CompressedTexture2D::5263300175581220854::1708384864::1708384867::1::::<><>::
+duckweed1.png::CompressedTexture2D::8203262716071341229::1708383505::1708383541::1::::<><>::
+duckweed2.png::CompressedTexture2D::8460631271628785542::1708383535::1708383541::1::::<><>::
 Egg_item.png::CompressedTexture2D::1082151179516756406::1686898878::1707422671::1::::<><>::
 First Asset pack.png::CompressedTexture2D::1550062732280725471::1708377927::1708378313::1::::<><>::
 flower1.png::CompressedTexture2D::1117922536277630573::1708368665::1708368669::1::::<><>::
 Free_Chicken_House.png::CompressedTexture2D::2103093573065044488::1688788742::1707422671::1::::<><>::
 House1.png::CompressedTexture2D::3675598463830178501::1708378305::1708378313::1::::<><>::
-house1_bottom.png::CompressedTexture2D::5159983928233037883::1708381406::1708381424::1::::<><>::
-house1_top.png::CompressedTexture2D::2447712509140159692::1708381343::1708381347::1::::<><>::
 House2.png::CompressedTexture2D::8223651047920675248::1708378951::1708378955::1::::<><>::
-houses.png::CompressedTexture2D::8479018539448051469::1587438298::1708381254::1::::<><>::
 Paths.png::CompressedTexture2D::3742555005017598493::1642841964::1707422671::1::::<><>::
 ship.png::CompressedTexture2D::6484546940373683286::1708379958::1708379961::1::::<><>::
 Simple_Milk_and_grass_item.png::CompressedTexture2D::8925743844243335719::1642922286::1707422671::1::::<><>::
 tree1.png::CompressedTexture2D::7399424185717547664::1708368487::1708368669::1::::<><>::
 tree2.png::CompressedTexture2D::7095287931890491920::1708368519::1708368669::1::::<><>::
 tree3.png::CompressedTexture2D::2054099807250267753::1708368618::1708368669::1::::<><>::
+TX Props.png::CompressedTexture2D::5001899846736732282::1611452526::1708384542::1::::<><>::
 Wood_Bridge.png::CompressedTexture2D::4018659047259520512::1642842030::1707422671::1::::<><>::
 ::res://Art/Sprout Lands - Sprites - Basic pack/Sprout Lands color pallet/::1707422671
 Sprout Lands defautlt palette snip.PNG::CompressedTexture2D::6650283016756725498::1689735758::1707422671::1::::<><>::
@@ -52,19 +53,20 @@ Tilled_Dirt.png::CompressedTexture2D::2181925296483933276::1702924316::170742267
 Water.png::CompressedTexture2D::2081309641395939250::1640171322::1707422671::1::::<><>::
 Wooden House.png::CompressedTexture2D::6265875823074739843::1640172846::1707422671::1::::<><>::
 Wood_Bridge_Tileset.png::CompressedTexture2D::1862303867330655090::1642842030::1708374744::1::::<><>::
-::res://Characters/::1708380873
+::res://Characters/::1708385708
 player_cat.gd::GDScript::-1::1708370212::0::1::::<>CharacterBody2D<>::
-player_cat.tscn::PackedScene::3966145911559136032::1708380873::0::1::::<><>::res://Characters/player_cat.gd<>uid://b2cbuphky8sdq::::res://Art/Sprout Lands - Sprites - Basic pack/Characters/Character Spritesheet.png
-::res://Levels/::1708380873
-game_level.tscn::PackedScene::8794291166006220210::1708380873::0::1::::<><>::uid://bwrh3xk4vu1bg::::res://Characters/player_cat.tscn<>uid://4wg4o05kklaw::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Water.png<>uid://b171uru5uep6w::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Hills.png<>uid://cq4r0rcio6ev0::::res://Objects/chest.tscn<>uid://1sd4w0ay8lli::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Wood_Bridge_Tileset.png<>uid://crifs566r7mqe::::res://Objects/tree_1.tscn<>uid://bc7ogvhja5u5y::::res://Objects/tree_2.tscn<>uid://b5l8732wdshyx::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Hills_NoCollision.png<>uid://6c68xomjp14s::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Tilled_Dirt.png<>uid://2afon3c8ekwt::::res://Objects/tree_3.tscn<>uid://cc75gk7i6n5sv::::res://Objects/free_chicken_house.tscn<>uid://x4c775qkuepb::::res://Objects/house_1.tscn<>uid://buooww5hedsx4::::res://Objects/house_2.tscn<>uid://cynfsnb267iiw::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/ship.png<>uid://dksclukec2hd1::::res://Objects/bush_1.tscn<>uid://crmarc1eqqofh::::res://Objects/bush_3.tscn<>uid://dl8lqlaxby1o3::::res://Objects/bush_4.tscn
-::res://Objects/::1708380873
-chest.tscn::PackedScene::5956807550557083211::1708368189::0::1::::<><>::uid://3dndccw0ls3c::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/Chest.png
-house_1.tscn::PackedScene::1674390665765426383::1708379441::0::1::::<><>::uid://bsmqtmtac4tuj::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/House1.png
-free_chicken_house.tscn::PackedScene::4981111942411301833::1708378726::0::1::::<><>::uid://470v5lfplr57::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/Free_Chicken_House.png
-house_2.tscn::PackedScene::3819989372556592299::1708379473::0::1::::<><>::uid://dpfuli7golheu::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/House2.png
+player_cat.tscn::PackedScene::3966145911559136032::1708385708::0::1::::<><>::res://Characters/player_cat.gd<>uid://b2cbuphky8sdq::::res://Art/Sprout Lands - Sprites - Basic pack/Characters/Character Spritesheet.png
+::res://Levels/::1708385755
+game_level.tscn::PackedScene::8794291166006220210::1708385755::0::1::::<><>::uid://bwrh3xk4vu1bg::::res://Characters/player_cat.tscn<>uid://4wg4o05kklaw::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Water.png<>uid://b171uru5uep6w::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Hills.png<>uid://cq4r0rcio6ev0::::res://Objects/chest.tscn<>uid://1sd4w0ay8lli::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Wood_Bridge_Tileset.png<>uid://crifs566r7mqe::::res://Objects/tree_1.tscn<>uid://bc7ogvhja5u5y::::res://Objects/tree_2.tscn<>uid://b5l8732wdshyx::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Hills_NoCollision.png<>uid://6c68xomjp14s::::res://Art/Sprout Lands - Sprites - Basic pack/Tilesets/Tilled_Dirt.png<>uid://2afon3c8ekwt::::res://Objects/tree_3.tscn<>uid://cc75gk7i6n5sv::::res://Objects/free_chicken_house.tscn<>uid://x4c775qkuepb::::res://Objects/house_1.tscn<>uid://buooww5hedsx4::::res://Objects/house_2.tscn<>uid://cynfsnb267iiw::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/ship.png<>uid://dksclukec2hd1::::res://Objects/bush_1.tscn<>uid://crmarc1eqqofh::::res://Objects/bush_3.tscn<>uid://dl8lqlaxby1o3::::res://Objects/bush_4.tscn<>uid://clx5pc2gbvrgi::::res://Objects/flower_1.tscn<>uid://do4yskoeypbfh::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/duckweed1.png<>uid://dssnmjh813dxm::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/duckweed2.png
+::res://Objects/::1708385708
 bush_1.tscn::PackedScene::7898451430851720596::1708380245::0::1::::<><>::uid://od5fksta3a55::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/bush1.png
 bush_3.tscn::PackedScene::5990854746193236585::1708380478::0::1::::<><>::uid://bsoaxvtkuiain::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/bush2.png
-bush_4.tscn::PackedScene::8000160835408717968::1708380873::0::1::::<><>::uid://c2dgmgya0xmjx::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/bush3.png
-tree_3.tscn::PackedScene::1895428090498590231::1708377640::0::1::::<><>::uid://4jayuu88ncrh::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/tree3.png
-tree_2.tscn::PackedScene::2593720325975344564::1708377640::0::1::::<><>::uid://c8damdcwaybam::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/tree2.png
+bush_4.tscn::PackedScene::8000160835408717968::1708385708::0::1::::<><>::uid://c2dgmgya0xmjx::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/bush3.png
+chest.tscn::PackedScene::5956807550557083211::1708368189::0::1::::<><>::uid://3dndccw0ls3c::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/Chest.png
+flower_1.tscn::PackedScene::5594247779470714192::1708382207::0::1::::<><>::uid://p6saydf4ta6h::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/flower1.png
+free_chicken_house.tscn::PackedScene::4981111942411301833::1708378726::0::1::::<><>::uid://470v5lfplr57::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/Free_Chicken_House.png
+house_1.tscn::PackedScene::1674390665765426383::1708379441::0::1::::<><>::uid://bsmqtmtac4tuj::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/House1.png
+house_2.tscn::PackedScene::3819989372556592299::1708379473::0::1::::<><>::uid://dpfuli7golheu::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/House2.png
 tree_1.tscn::PackedScene::5982904085541280516::1708369672::0::1::::<><>::uid://ddolo2f3efa8g::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/tree1.png
+tree_2.tscn::PackedScene::2593720325975344564::1708377640::0::1::::<><>::uid://c8damdcwaybam::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/tree2.png
+tree_3.tscn::PackedScene::1895428090498590231::1708377640::0::1::::<><>::uid://4jayuu88ncrh::::res://Art/Sprout Lands - Sprites - Basic pack/Objects/tree3.png
