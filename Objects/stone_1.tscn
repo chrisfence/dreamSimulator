@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://2jtnwcq7k281"]
+
+[ext_resource type="Texture2D" uid="uid://p6edmu0q6ik5" path="res://Art/Sprout Lands - Sprites - Basic pack/Objects/stone1.png" id="1_mum68"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_co0ed"]
+size = Vector2(14.3792, 10.9959)
+
+[node name="Stone1" type="Sprite2D"]
+position = Vector2(53.256, -158.627)
+scale = Vector2(1.18226, 1.18226)
+texture = ExtResource("1_mum68")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(-0.639458, 0.107422)
+shape = SubResource("RectangleShape2D_co0ed")

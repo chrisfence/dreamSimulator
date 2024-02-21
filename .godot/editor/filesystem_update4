@@ -1,3 +1,4 @@
 res://Levels/game_level.tscn
+res://Objects/stone_1.tscn
 res://Characters/player_cat.tscn
-res://Objects/bush_4.tscn
+res://Objects/tree_1.tscn
