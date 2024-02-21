@@ -1,14 +1,3 @@
 res://Levels/game_level.tscn
 res://Characters/player_cat.tscn
-res://Objects/chest.tscn
-res://Objects/tree_1.tscn
-res://Objects/tree_2.tscn
-res://Characters/player_cat.gd
-res://Objects/tree_3.tscn
-res://Objects/house_1.tscn
-res://Objects/free_chicken_house.tscn
-res://Objects/house_2.tscn
-res://Objects/bush_1.tscn
-res://Objects/bush_3.tscn
 res://Objects/bush_4.tscn
-res://Objects/flower_1.tscn
